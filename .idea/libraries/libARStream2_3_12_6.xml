@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libARStream2-3.12.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/92b856a9549b9d5b105f91ab99dec701b033d87f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/92b856a9549b9d5b105f91ab99dec701b033d87f/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARStream2/3.12.6/896e14baeab756e74fd101e7a516870f23492413/libARStream2-3.12.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

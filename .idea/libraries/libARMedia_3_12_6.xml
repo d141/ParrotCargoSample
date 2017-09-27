@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libARMedia-3.12.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/18b34a11b3949396289dd9c5fe0e496f4f17660b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/18b34a11b3949396289dd9c5fe0e496f4f17660b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARMedia/3.12.6/f7a2bf419d868d7e1381677d173b4889aa0b8d62/libARMedia-3.12.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
